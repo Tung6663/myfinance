@@ -1,0 +1,2 @@
+{"name":"MyFinance 個人財務","short_name":"MyFinance","description":"本機加密的個人財務管理工具","lang":"zh-Hant","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#0d3b2e","theme_color":"#0d3b2e",
+"icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"},{"src":"icon-maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}]}
